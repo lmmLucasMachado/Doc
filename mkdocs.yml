@@ -15,3 +15,4 @@ plugins:
   - search
 nav:
   - Home: 'index.md'
+  - Modelo conceitual: 'modelo-conceitual/index.md'
