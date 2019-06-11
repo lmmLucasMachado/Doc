@@ -1,5 +1,5 @@
-site_name: Grego Fast
-site_description: Documentação do Grego Fast
+site_name: Fast Grego
+site_description: Documentação do Fast Grego
 repo_url: https://github.com/fast-grego
 site_dir: site
 dev_addr: ‘0.0.0.0:8000
