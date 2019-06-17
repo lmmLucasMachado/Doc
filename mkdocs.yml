@@ -16,3 +16,5 @@ plugins:
 nav:
   - Home: 'index.md'
   - Modelo conceitual: 'modelo-conceitual/index.md'
+  - Geração de alternativas: 'geracao-alternativas/index.md'
+  - Prototipagem: 'prototipagem/index.md'
