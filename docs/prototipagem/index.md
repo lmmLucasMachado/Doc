@@ -11,3 +11,11 @@ O processo de prototipação tem o objetivo de facilitar o entendimento dos requ
 > No início do desenvolvimento da parte de prototipação, foram desenhadas algumas ideias em papéis cortados simulando telas de celular, estes desenhos serviram como base para gerar uma versão digital de baixa fidelidade.
 
 ![Baixa fidelidade](https://i.imgur.com/2nD7qD6.jpg)
+
+> Um rascunho rápido de algumas idéias permitiram chegar as este layout representado de forma bem simples.
+
+![Manual](https://i.imgur.com/B2b6qgV.jpg)
+
+> A versão digital de baixa fidelidade se encontra logo abaixo, e conta com uma breve explicação de cada tela, assim como setas que indicam o fluxo da aplicação.
+
+![Virtual](https://i.imgur.com/TcTZjgN.jpg)
