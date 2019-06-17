@@ -12,9 +12,11 @@ O processo de prototipação tem o objetivo de facilitar o entendimento dos requ
 
 ![Baixa fidelidade](https://i.imgur.com/2nD7qD6.jpg)
 
-> Um rascunho rápido de algumas idéias permitiram chegar as este layout representado de forma bem simples.
+> Algumas idéias foram rascunhadas para representação de baixa fidelidade pelo membros do grupo e se encontram logo abaixo.
 
 ![Manual](https://i.imgur.com/B2b6qgV.jpg)
+
+![Manual](https://i.imgur.com/Kl7LmUt.jpg)
 
 > A versão digital de baixa fidelidade se encontra logo abaixo, e conta com uma breve explicação de cada tela, assim como setas que indicam o fluxo da aplicação.
 

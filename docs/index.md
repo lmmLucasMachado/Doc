@@ -1,7 +1,7 @@
 
 # *Fast* **GREGO**
 
-> Repositório da disciplina de Interação Humano Computador 2019.1 realizado sobre o a criaçao do aplicativo de marmitas para o fast food do Grego.
+> Repositório da disciplina de Interação Humano Computador 2019.1 realizado sobre a criaçao do aplicativo de marmitas para o fast food do Grego.
 
 ## Equipe
 
