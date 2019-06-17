@@ -1,6 +1,6 @@
-|Data|Versão|Descrição|Autor|
+|Data|Versão|Descrição|Autores|
 |--|--|--|--|
-|17/06/2019|1.0|Adicionado versão de baixa e média fidelidade|Alan Lima|
+|17/06/2019|1.0|Adicionado versão de baixa e média fidelidade|      Alan Lima<br> Arthur Rudrigues<br> Lucas Machado<br> Marco Antônio |
 
 ## Introdução
 
@@ -17,6 +17,8 @@ O processo de prototipação tem o objetivo de facilitar o entendimento dos requ
 ![Manual](https://i.imgur.com/B2b6qgV.jpg)
 
 ![Manual](https://i.imgur.com/Kl7LmUt.jpg)
+
+![Manual](https://imgur.com/HAjYiLu.jpg)
 
 > A versão digital de baixa fidelidade se encontra logo abaixo, e conta com uma breve explicação de cada tela, assim como setas que indicam o fluxo da aplicação.
 
