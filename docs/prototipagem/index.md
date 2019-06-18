@@ -20,6 +20,8 @@ O processo de prototipação tem o objetivo de facilitar o entendimento dos requ
 
 ![Manual](https://imgur.com/HAjYiLu.jpg)
 
+![Manual](https://i.imgur.com/iZ3QFbR.jpg)
+
 > A versão digital de baixa fidelidade se encontra logo abaixo, e conta com uma breve explicação de cada tela, assim como setas que indicam o fluxo da aplicação.
 
 ![Virtual](https://i.imgur.com/TcTZjgN.jpg)
