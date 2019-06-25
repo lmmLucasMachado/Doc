@@ -17,6 +17,7 @@ nav:
   - Home: 'index.md'
   - Modelo conceitual: 'modelo-conceitual/index.md'
   - Geração de alternativas: 'geracao-alternativas/index.md'
+  - Requisitos: 'requisitos/index.md'
   - Prototipagem: 
     - Baixa fidelidade: 'prototipagem/baixa-fidelidade.md'
     - Média fidelidade: 'prototipagem/media-fidelidade.md'
