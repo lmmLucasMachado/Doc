@@ -18,6 +18,7 @@ nav:
   - Modelo conceitual: 'modelo-conceitual/index.md'
   - Geração de alternativas: 'geracao-alternativas/index.md'
   - Requisitos: 'requisitos/index.md'
+  - Teste de Usuabilidade: 'teste-de-usuabilidade/index.md'
   - Prototipagem: 
     - Baixa fidelidade: 'prototipagem/baixa-fidelidade.md'
     - Média fidelidade: 'prototipagem/media-fidelidade.md'
