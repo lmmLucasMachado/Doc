@@ -10,48 +10,47 @@
 
 |Código|Descrição|Prioridade|
 |--|--|--|
-|AD01|O app irá notificar o usuário quando o prazo de retirada de seu pedido estiver acabando||
-|AD02|O app irá notificar o usuário quando houverem promoções||
-|AD03|O app irá notificar o usuário quando houverem novos itens no cardápio||
-|AD04|O usuário poderá se cadastrar no app||
-|AD05|O usuário poderá recuperar sua senha caso tenha esquecido||
-|AD06|O app irá criar cartões de fidelidade||
-|AD07|O app irá salvar vários cartões de crédito||
-|AD08|O app irá aceitar pagamentos com cartão de crédito||
-|AD09|O app irá aceitar pagamentos com dinheiro||
-|AD10|O app irá criar uma sacola com itens de um pedido||
-|AD11|O app irá solicitar a data de retirada do pedido (Hoje/Amanha)||
-|AD12|O usuário irá ter a possibilidade de favoritar um item||
-|AD13|O usuário irá ter a possibilidade de dar uma nota para um item||
-|AD14|O usuário irá ter a possibilidade de comentar sobre um item||
-|AD15|O usuário irá ter a possibilidade de colocar uma observação em um item||
-|AD16|O usuário irá ter a possibilidade de escolher diferentes combinações/tipos/sabores para um item||
-|AD17|O usuário irá ter a possibilidade de editar um item na sacola||
-|AD18|O usuário irá ter a possibilidade de remover um item na sacola||
-|AD19|O usuário irá ter a possibilidade de buscar um item pelo nome||
-|AD20|Os pedidos feitos pelo app irão ser somados a um cartão fidelidade||
-|AD21|O usuário irá completar um cartão quando atingir 10 pedidos||
-|AD22|Existirá um cartão fidelidade para compra de sanduíches gregos e outro para almoços que poderá ser usado em um pedido pelo usuário||
-|AD23|O admin poderá apagar comentários de um item||
-|AD24|O admin poderá editar, criar ou apagar itens no cardápio||
-|AD25|O admin poderá marcar um item como esgotado para o dia atual||
-|AD26|O admin poderá criar categorias para o cardápio||
-|AD27|O app terá um histórico de pedidos do usuário||
-|AD28|O app irá separar os pedidos em fechados, abertos e expirados||
-|AD29|O app fornecerá dados resumidos sobre os pedidos para o admin||
-|AD30|O admin irá ler os QR-codes dos pedidos para validá-los e realizar uma ação de finalizar ou adiar o pedido||
-|AD31|O app irá organizar os pedidos em ordem cronológica de tempo||
-|AD32|Cada pedido terá informações relevantes (Itens do pedido, total, forma de pagamento, data do pedido, dia de retirada, telefone do grego)||
-|AD33|O usuário poderá avaliar um pedido||
-|AD34|O usuário terá a possibilidade de cancelar um pedido caso esteja dentro do prazo de cancelamento||
-|AD35|O usuário terá a possibilidade de refazer o mesmo pedido||
-|AD36|O usuário irá ter a possibilidade de adicionar uma foto de perfil||
-|AD37|O app irá ter uma sessão para a politica de privacidade e termos de uso||
-|AD38|O usuário irá ter a possibilidade de avaliar o fast food do grego||
-|AD39|O usuário irá ter a possibilidade de editar seus dados (Nome, Email, CPF, Celular)||
-|AD40|O usuário irá ter a possibilidade de ver, adicionar e editar suas formas de pagamento||
-|AD41|O usuário terá a possibilidade de visualizar seus pedidos favoritos||
-|AD42|O usuário terá a possibilidade de checar seus cartões de fidelidade||
+|AD01|O app irá notificar o usuário quando o prazo de retirada de seu pedido estiver acabando|Should|
+|AD02|O app irá notificar o usuário quando houverem promoções|Could|
+|AD03|O app irá notificar o usuário quando houverem novos itens no cardápio|Could|
+|AD04|O usuário poderá se cadastrar no app|Must|
+|AD05|O usuário poderá recuperar sua senha caso tenha esquecido|Must|
+|AD06|O app irá criar cartões de fidelidade|Should|
+|AD07|O app irá salvar crédito|Should|
+|AD08|O app irá aceitar pagamentos com cartão de crédito|Must|
+|AD09|O app irá aceitar pagamentos com dinheiro|Could|
+|AD10|O app irá criar uma sacola com itens de um pedido|Must|
+|AD11|O app irá solicitar a data de retirada do pedido (Hoje/Amanha)|Must|
+|AD12|O usuário irá ter a possibilidade de favoritar um item|Should|
+|AD13|O usuário irá ter a possibilidade de dar uma nota para um item|Should|
+|AD14|O usuário irá ter a possibilidade de comentar sobre um item|Could|
+|AD15|O usuário irá ter a possibilidade de colocar uma observação em um item|Would|
+|AD16|O usuário irá ter a possibilidade de escolher diferentes combinações/tipos/sabores para um item|Must|
+|AD17|O usuário irá ter a possibilidade de editar um item na sacola|Must|
+|AD18|O usuário irá ter a possibilidade de remover um item na sacola|Must|
+|AD19|O usuário irá ter a possibilidade de buscar um item pelo nome|Would|
+|AD20|Os pedidos feitos pelo app irão ser somados a um cartão fidelidade|Should|
+|AD21|O usuário irá completar um cartão quando atingir 10 pedidos|Should|
+|AD22|Existirá um cartão fidelidade para compra de sanduíches gregos e outro para almoços que poderá ser usado em um pedido pelo usuário|Should|
+|AD23|O admin poderá editar, criar ou apagar itens no cardápio|Must|
+|AD24|O admin poderá marcar um item como esgotado para o dia atual|Must|
+|AD25|O admin poderá criar categorias para o cardápio|Must|
+|AD26|O app terá um histórico de pedidos do usuário|Must|
+|AD27|O app irá separar os pedidos em fechados, abertos e expirados|Must|
+|AD28|O app fornecerá dados resumidos sobre os pedidos para o admin|Must|
+|AD29|O admin irá ler os QR-codes dos pedidos para validá-los e realizar uma ação de finalizar ou adiar o pedido|Must|
+|AD30|O app irá organizar os pedidos em ordem cronológica de tempo|Must|
+|AD31|Cada pedido terá informações relevantes (Itens do pedido, total, forma de pagamento, data do pedido, dia de retirada, telefone do grego)|Must|
+|AD32|O usuário poderá avaliar um pedido|Must|
+|AD33|O usuário terá a possibilidade de cancelar um pedido caso esteja dentro do prazo de cancelamento|Must|
+|AD34|O usuário terá a possibilidade de refazer o mesmo pedido|Must|
+|AD35|O usuário irá ter a possibilidade de adicionar uma foto de perfil|Would|
+|AD36|O app irá ter uma sessão para a politica de privacidade e termos de uso|Must|
+|AD37|O usuário irá ter a possibilidade de avaliar o fast food do grego|Must|
+|AD38|O usuário irá ter a possibilidade de editar seus dados (Nome, Email, CPF, Celular)|Must|
+|AD39|O usuário irá ter a possibilidade de ver, adicionar e editar suas formas de pagamento|Must|
+|AD40|O usuário terá a possibilidade de visualizar seus pedidos favoritos|Must|
+|AD41|O usuário terá a possibilidade de checar seus cartões de fidelidade|Should|
 
 
 ### Pontos importantes
