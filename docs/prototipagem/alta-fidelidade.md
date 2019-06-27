@@ -11,12 +11,23 @@ Levando em consideração todos os [requisitos elicitados](../../requisitos), as
 
 É importante para o desenvolvedor possuir os desenhos das telas individualmente para ter uma maior riqueza de detalhes, de cores, fontes, espaçamentos, etc. Portanto foi disponibilizado uma pasta que contém todas as telas possíveis da aplicação. Para acessá-la, clique [AQUI](https://drive.google.com/drive/folders/1yh2iPXfBx4bUneSJ9lnxKqiK_AOsv3JL).
 
+Outra observação importante é que esta aplicação contará tambem com uma área de administrador. Uma conta de admin será identificada e possuirá funcionalidades adicionais no app, para controle de fluxo de lanches, leitura de pedidos, entre outros. Portanto, foi desenvolvido um **protótipo para o cliente**(Quem compra os lanches) e outro **para o administrador**(Dono do fast food).
+
 
 ## Desenvolvimento 
 ![developer](https://i.imgur.com/F66oWUj.png)
 > Screenshoot da tela de desenvolvimento do protótipo de alta fidelidade
 
-## Protótipo interativo
+
+## Protótipo cliente
+
+### Protótipo interativo
 
 Para trazer uma experiência mais próxima da realidade, um protótipo interativo está disponibilizado neste no link a seguir.
 [https://xd.adobe.com/view/20efcefe-db2f-46a7-6681-3d3386850e69-56de/](https://xd.adobe.com/view/20efcefe-db2f-46a7-6681-3d3386850e69-56de/)
+
+### Protótipo estático
+
+Através deste é possível ter uma visão ampla de toda a aplicação e ter uma noção do fluxo de telas. Desta maneira facilita a visualização da amplitude e quantidades de telas, e como elas se interagem.
+
+![estatico_cliente](https://i.imgur.com/TC3sTzP.jpg)
