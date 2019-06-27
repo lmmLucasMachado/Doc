@@ -15,7 +15,7 @@ Outra observação importante é que esta aplicação contará tambem com uma á
 
 
 ## Desenvolvimento 
-Clique [AQUI](https://drive.google.com/file/d/1Jijw7P8-23-ohYFPBkPE1fkkEHIsC0XT/view?usp=sharing) para acessar o arquivo .xd usando para desenvolvimento do protótipo do cliente. 
+Clique [AQUI](https://drive.google.com/file/d/1Jijw7P8-23-ohYFPBkPE1fkkEHIsC0XT/view?usp=sharing) para acessar o arquivo .xd usado para desenvolvimento do protótipo do cliente. 
 
 ---
 
@@ -27,7 +27,7 @@ Clique [AQUI](https://drive.google.com/file/d/1Jijw7P8-23-ohYFPBkPE1fkkEHIsC0XT/
 
 ### Protótipo interativo
 
-Para trazer uma experiência mais próxima da realidade, um protótipo interativo está disponibilizado neste no link a seguir.
+Para trazer uma experiência mais próxima da realidade, um protótipo interativo está disponibilizado no link a seguir.
 [https://xd.adobe.com/view/20efcefe-db2f-46a7-6681-3d3386850e69-56de/](https://xd.adobe.com/view/20efcefe-db2f-46a7-6681-3d3386850e69-56de/)
 
 ### Protótipo estático
