@@ -28,6 +28,8 @@ Os participantes devem ser da UnB - fga pois o app a principio possui apenas o f
 
 ## Questionario 
 
-[Link para o questionario](https://docs.google.com/forms/d/e/1FAIpQLSc6KQQsnhBiy21XBPqDRIfjNVXuyGTqPZpfYULsSNjV7jgJMA/viewform?edit2=2_ABaOnueCcqjunLY9HT5Z5nmrtpq_A4zU1W02lCXScnKfuipU83o5NOvUY_0)
+Abaixo temos um questionario que tem por finalidade descobrir algumas funcionalidades 
+
+[Link para o questionario](https://docs.google.com/forms/d/e/1FAIpQLSc6KQQsnhBiy21XBPqDRIfjNVXuyGTqPZpfYULsSNjV7jgJMA/viewform)
 
 

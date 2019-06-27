@@ -18,7 +18,9 @@ nav:
   - Modelo conceitual: 'modelo-conceitual/index.md'
   - Geração de alternativas: 'geracao-alternativas/index.md'
   - Requisitos: 'requisitos/index.md'
-  - Teste de Usuabilidade: 'teste-de-usuabilidade/index.md'
+  - Teste de Usuabilidade:
+    - Roteiro: 'teste-de-usuabilidade/roteiro-teste-usuabilidade.md'
+    - Resultados: 'teste-de-usuabilidade/resultados-teste-usuabilidade.md'
   - Prototipagem: 
     - Baixa fidelidade: 'prototipagem/baixa-fidelidade.md'
     - Média fidelidade: 'prototipagem/media-fidelidade.md'
