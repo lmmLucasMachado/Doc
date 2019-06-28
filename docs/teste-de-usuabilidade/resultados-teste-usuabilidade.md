@@ -3,6 +3,11 @@ O nosso usuário teste testou o nosso prototipo do aplicativo, seguindo as nossa
 
 ## Usuário teste 01
 
+
+Nome: Angelo <br>
+Profissão: Estagiario TCU / Estudante<br>
+Idade: 22 anos
+
 - Encontre algo que ache interessante e efetue uma compra.
 
 O usuário conseguiu realizar essa tarefa rapidamente 
@@ -33,12 +38,18 @@ Nesta parte foi condundido a opção observação com comentario.
 
 - Você ja preencheu o cartão fidelidade faça uso dele para comprar algo do seu interesse.
 
-Esta função ainda não estava no escopo do prototipo.
+Ja conhecia esta funcionalidade de outros locais e gostou de ver isso.
 
 - Faça de conta que vc ja efetuou o pagamento e agora o 
 
 QRcode lhe foi solicitado, mostre-o.
 ele ja tinha passado por esta tela no momento da compra e quando esta questão foi feita ele achou com facilidade
+
+### Obsevação:
+
+Um pouco após o teste ser realizado foi perguntado ao participante como ele categorizaria a aplicação de 0 a 10 sendo 0 uma opção uma opção inviavel e 10 atende todas as espectativas.
+
+Ele classificou com **9** pois sentiu falta da foto
 
 ## Usuário teste 02
 
