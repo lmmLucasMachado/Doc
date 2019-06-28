@@ -1,7 +1,7 @@
-### Resultados dos testes de usuabilidade
+### Resultados dos Testes de Usabilidade
 O nosso usuário teste testou o nosso prototipo do aplicativo, seguindo as nossas indicações sempre seguindo o roteiro ja estabelecido anteriormente, durante a realização do teste foram deitas anotações e logo após transcrito o resultado para cada uma das após questões.
 
-## Usuario teste 01
+## Usuário teste 01
 
 - Encontre algo que ache interessante e efetue uma compra.
 
@@ -40,3 +40,43 @@ Esta função ainda não estava no escopo do prototipo.
 QRcode lhe foi solicitado, mostre-o.
 ele ja tinha passado por esta tela no momento da compra e quando esta questão foi feita ele achou com facilidade
 
+## Usuário teste 02
+
+Nome: André <br>
+Profissão: Estudante - FGA/Unb<br>
+Idade: 21 anos
+
+Teste realizado no dia 27/06/2019 via hangouts.
+
+Link da gravação do teste remoto pode ser encontrado [aqui](https://www.youtube.com/watch?v=2rcjVzRn5p0).
+
+**Contexto** 
+
+Você é um aluno da FGA e ta querendo fazer o uso do aplicativo fast grego para fazer uma refeição
+
+
+**Principais FeedBacks do Usuário**
+
+- Interface Elegante
+
+- Simples utilização, poucos cliques para realizar as tarefas
+
+- Fluidez no uso
+
+
+**Principais Propostas de melhoria do Usuário**
+
+- Poderia ser um pouco mais intuitivo em relação a achar o QRCode.
+
+
+**Resultados Observados pelo Moderador**
+
+- O tempo médio para realização das tarefas foi de 38 segundos.
+
+- Dificuldade por parte do usuário em saber se o produto foi adicionado à sacola.
+
+- O usuário teve dificuldade em entender o que são os pedidos expirados
+
+- O usuário ficou satisfeito com a interface da aplicação
+
+- O usuário elogiou funcionalidades como: cartão fidelidade, formas de pagamento e achou bem fácil utilizá-las.
