@@ -35,12 +35,12 @@ Abaixo temos um questionario que tem por finalidade descobrir algumas funcionali
 
 ## Resultados obtidos no questionario
 
-![Resp_1](./../images/resp_1.png)
+![Resp_1](resp_1.PNG)
 
-![Resp_2](./../images/resp_2.png)
+![Resp_2](resp_2.PNG)
 
-![Resp_3](./../images/resp_3.png)
+![Resp_3](resp_3.PNG)
 
-![Resp_4](./../images/resp_4.png)
+![Resp_4](resp_4.PNG)
 
-![Resp_5](./../images/resp_5.png)
+![Resp_5](resp_5.PNG)
