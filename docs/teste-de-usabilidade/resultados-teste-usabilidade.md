@@ -91,3 +91,18 @@ Você é um aluno da FGA e ta querendo fazer o uso do aplicativo fast grego para
 - O usuário ficou satisfeito com a interface da aplicação
 
 - O usuário elogiou funcionalidades como: cartão fidelidade, formas de pagamento e achou bem fácil utilizá-las.
+
+
+
+
+## Resultados obtidos no questionario
+
+![Resp_1](resp_1.PNG)
+
+![Resp_2](resp_2.PNG)
+
+![Resp_3](resp_3.PNG)
+
+![Resp_4](resp_4.PNG)
+
+![Resp_5](resp_5.PNG)
