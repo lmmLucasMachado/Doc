@@ -1,4 +1,4 @@
-### Roteiro do Teste de Usuabilidade
+# Roteiro do Teste de Usabilidade
 
 ## Objetivo
 
@@ -33,3 +33,14 @@ Abaixo temos um questionario que tem por finalidade descobrir algumas funcionali
 [Link para o questionario](https://docs.google.com/forms/d/e/1FAIpQLSc6KQQsnhBiy21XBPqDRIfjNVXuyGTqPZpfYULsSNjV7jgJMA/viewform)
 
 
+## Resultados obtidos no questionario
+
+![Resp_1](./../images/resp_1.png)
+
+![Resp_2](./../images/resp_2.png)
+
+![Resp_3](./../images/resp_3.png)
+
+![Resp_4](./../images/resp_4.png)
+
+![Resp_5](./../images/resp_5.png)

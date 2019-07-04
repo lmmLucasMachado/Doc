@@ -19,8 +19,8 @@ nav:
   - Geração de alternativas: 'geracao-alternativas/index.md'
   - Requisitos: 'requisitos/index.md'
   - Teste de Usuabilidade:
-    - Roteiro: 'teste-de-usuabilidade/roteiro-teste-usuabilidade.md'
-    - Resultados: 'teste-de-usuabilidade/resultados-teste-usuabilidade.md'
+    - Roteiro: 'teste-de-usabilidade/roteiro-teste-usabilidade.md'
+    - Resultados: 'teste-de-usabilidade/resultados-teste-usabilidade.md'
   - Prototipagem: 
     - Baixa fidelidade: 'prototipagem/baixa-fidelidade.md'
     - Média fidelidade: 'prototipagem/media-fidelidade.md'
